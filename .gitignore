@@ -1,0 +1,22 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+
+# Lean artifacts
+backtests/
+optimizations/
+storage/
+*.log
+
+# Datasets (KEEP LOCAL)
+data/
+
+# VS Code & misc
+.vscode/
+.DS_Store

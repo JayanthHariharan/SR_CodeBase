@@ -1,0 +1,24 @@
+{
+    "data-folder": "/Users/jay/Desktop/SR_Codebase/quant_connect/data",
+    "maximum-concurrent-backtests": 2,
+    "channel-id": "LOCAL-1d6d9b3489abbde84fad48f70045d184",
+    "algorithm-language": "Python",
+    "parameters": {
+        "window": "14",
+        "entry": "2.0",
+        "exit": "0.25",
+        "atr_mult": "2.5",
+        "vol_target": "0.06",
+        "cooldown": "3",
+        "reglen": "200",
+        "time_stop": "14",
+
+        "use_sentiment": "0",
+        "sent_window": "5",
+        "sent_lag_days": "1",
+        "sent_gate": "-0.10",
+        "sent_entry_k": "0.25",
+        "sent_size_k": "0.25"
+    },
+    "local-id": 417991087
+}

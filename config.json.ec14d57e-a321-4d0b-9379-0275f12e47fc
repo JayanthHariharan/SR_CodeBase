@@ -1,0 +1,13 @@
+{
+    "data-folder": "/Users/jay/Desktop/SR_Codebase/quant_connect/data",
+    "channel-id": "LOCAL-1d6d9b3489abbde84fad48f70045d184",
+    "algorithm-language": "Python",
+    "parameters": {
+        "entry": "2.0",
+        "exit": "1.0",
+        "risk_per_trade": "0.01",
+        "stop_loss_pct": "0.02"
+    },
+    "local-id": 417991087,
+    "deployment-target": "Local Platform"
+}
